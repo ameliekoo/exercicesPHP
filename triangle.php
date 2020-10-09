@@ -12,7 +12,7 @@
 // 	}
 // }
 
-triangle(10);
+triangle(100);
 
 
 function triangle($height){
