@@ -13,7 +13,7 @@
 // }
 
 triangle(20);
-triangle(10);
+
 
 
 function triangle($height){
